@@ -1,12 +1,14 @@
-# E-Commerce App
+# Cloud-Native E-Commerce CI/CD Pipeline with AWS ECS Fargate
 
-A simple e-commerce application built with Node.js and Express.
+A cloud-native e-commerce application built with Node.js and Express, deployed using AWS ECS Fargate with CI/CD pipeline.
 
 ## Features
 
 - RESTful API structure
 - Express.js framework
 - Docker support
+- AWS ECS Fargate deployment
+- CI/CD Pipeline integration
 
 ## Installation
 
